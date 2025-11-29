@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Simba Estates - Kenyan Rental Manager",
+  "description": "A comprehensive property management system designed for the Kenyan market. Features distinct portals for Admins, Landlords, and Tenants, managing leases, payments (MPESA simulation), and maintenance requests.",
+  "requestFramePermissions": []
+}
